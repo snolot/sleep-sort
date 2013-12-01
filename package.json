@@ -25,5 +25,6 @@
   "devDependencies": {
     "mocha":"1.14.0",
     "should": "~2.1.0"
-  }
+  },
+  "bin": { "sleep-sort": "./bin/sleep-sort" },
 }
