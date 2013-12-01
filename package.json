@@ -1,0 +1,25 @@
+{
+  "name": "sleep-sort",
+  "version": "0.0.1",
+  "description": "Implementation of the sleep-sort algorithm",
+  "main": "lib/main.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "moch test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/snolot/sleep-sort.git"
+  },
+  "keywords": [
+    "sleep-sort",
+    "sorting",
+    ""
+  ],
+  "author": "Sylvain Nolot",
+  "license": "BSD",
+  "readmeFilename": "Readme.md",
+  "gitHead": "975eb6f94a59aab95d9952fe719edb823fbe0577"
+}
