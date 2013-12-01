@@ -7,7 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "test": "moch test/*.js"
+    "test": "mocha test/*.js"
   },
   "repository": {
     "type": "git",
@@ -21,5 +21,9 @@
   "author": "Sylvain Nolot",
   "license": "BSD",
   "readmeFilename": "Readme.md",
-  "gitHead": "975eb6f94a59aab95d9952fe719edb823fbe0577"
+  "gitHead": "975eb6f94a59aab95d9952fe719edb823fbe0577",
+  "devDependencies": {
+    "mocha":"1.14.0",
+    "should": "~2.1.0"
+  }
 }
